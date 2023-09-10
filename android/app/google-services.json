@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "910026608626",
+    "firebase_url": "https://newsuptodate-f2c0f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "newsuptodate-f2c0f",
+    "storage_bucket": "newsuptodate-f2c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910026608626:android:b030c7e8c7372a4173e56b",
+        "android_client_info": {
+          "package_name": "com.newsuptodate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910026608626-i6irp22310j4tfireq6g5mtd1st2u3em.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newsuptodate",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "910026608626-3b5da3eep7l8dp16tujg6huvvuvtl8kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOVVEBTRYTB45fe_tVnPjdyh472L_SwDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910026608626-3b5da3eep7l8dp16tujg6huvvuvtl8kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
